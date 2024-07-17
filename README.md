@@ -1,2 +1,3 @@
-# autojs-code
-autojs自动化脚本
+
+
+# 微信自动添加附近人
